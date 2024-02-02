@@ -1,4 +1,4 @@
-<a href = "https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 # CPE311
 Hi 👋 My name is Jann Moises Nyll De los Reyes
 =====================================================================================================================================================
@@ -6,6 +6,7 @@ Hi 👋 My name is Jann Moises Nyll De los Reyes
 Student | Researcher | Innovator
 --------------------------------
 
+![coding](https://github.com/akosinyll1404/CPE311/assets/109423979/c7b6adc6-5e7f-4dab-ae75-29d1608f9f0c)
 Welcome to my repository! You can call me "Moises" or "Nyll". I am an aspiring Computer Engineer, Data Scientist, and Researcher. I am a computer engineering student from CPE22S3 from the Technological Institute of the Philippines - Quezon City ( T.I.P. - Q.C.). I love to learn more about Automation, Artificial Intelligence, Machine Learning, Quantum Computing and Metaverse. My biggest dream is to make a project that will sustainably impact the people and the world; and enhance the research and development here in the Philippines.
 
 *   🌍  I'm based in the Philippines, currently living in Quezon City.
@@ -14,6 +15,7 @@ Welcome to my repository! You can call me "Moises" or "Nyll". I am an aspiring C
 *   🧠  I'm learning OOP, Database Management Systems, Data Structure & Algorithms, Python, Computer Networks and Web Development
 *   ⚡  I always love to explore and learn new things! I love to read books, watch anime, and collect fragrances.
     
+
 
 --------------------------------  
 ### Skills
