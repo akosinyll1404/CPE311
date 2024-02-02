@@ -15,8 +15,8 @@ Welcome to my repository! You can call me "Moises" or "Nyll". I am an aspiring C
 *   🧠  I'm learning OOP, Database Management Systems, Data Structure & Algorithms, Python, Computer Networks and Web Development
 *   ⚡  I always love to explore and learn new things! I love to read books, watch anime, and collect fragrances.
     
+![totoro-discord](https://github.com/akosinyll1404/CPE311/assets/109423979/8f33bcdc-3e20-4f27-97db-3e7437c0a8fa)![totoro-discord](https://github.com/akosinyll1404/CPE311/assets/109423979/8f33bcdc-3e20-4f27-97db-3e7437c0a8fa)
 
-<div class="tenor-gif-embed" data-postid="21573130" data-share-method="host" data-aspect-ratio="5.245" data-width="100%"><a href="https://tenor.com/view/totoro-discord-header-aesthetic-anime-gif-21573130">Totoro Discord Sticker</a>from <a href="https://tenor.com/search/totoro-stickers">Totoro Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 --------------------------------  
 ### Skills
