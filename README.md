@@ -1,9 +1,10 @@
 # CPE311
 Hi 👋 My name is Jann Moises Nyll De los Reyes
 =====================================================================================================================================================
-![killua-hunter-x-hunter](https://github.com/akosinyll1404/CPE311/assets/109423979/97d5e59d-d54e-4429-8ea6-5163636c4d4d)
 
-Student | Researcher | Innovator
+
+
+Student | Researcher | Innovator ![Killua-PNG-Picture](https://github.com/akosinyll1404/CPE311/assets/109423979/a6672d40-cb5a-4d5c-a919-59a5f170a27d)
 --------------------------------
 
 Welcome to my repository! You can call me "Moises" or "Nyll". I am an aspiring Computer Engineer, Data Scientist, and Researcher. I am a computer engineering student from CPE22S3 from the Technological Institute of the Philippines - Quezon City ( T.I.P. - Q.C.). I love to learn more about Automation, Artificial Intelligence, Machine Learning, Quantum Computing and Metaverse. My biggest dream is to make a project that will sustainably impact the people and the world; and enhance the research and development here in the Philippines.
