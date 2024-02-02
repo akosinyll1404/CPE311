@@ -6,7 +6,8 @@ Hi 👋 My name is Jann Moises Nyll De los Reyes
 Student | Researcher | Innovator
 --------------------------------
 
-![coding](https://github.com/akosinyll1404/CPE311/assets/109423979/c7b6adc6-5e7f-4dab-ae75-29d1608f9f0c)
+<div class="tenor-gif-embed" data-postid="26953149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/killua-hunter-x-hunter-transparent-gif-26953149">Killua Hunter X Hunter Sticker</a>from <a href="https://tenor.com/search/killua-stickers">Killua Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+--------------------------------
 Welcome to my repository! You can call me "Moises" or "Nyll". I am an aspiring Computer Engineer, Data Scientist, and Researcher. I am a computer engineering student from CPE22S3 from the Technological Institute of the Philippines - Quezon City ( T.I.P. - Q.C.). I love to learn more about Automation, Artificial Intelligence, Machine Learning, Quantum Computing and Metaverse. My biggest dream is to make a project that will sustainably impact the people and the world; and enhance the research and development here in the Philippines.
 
 *   🌍  I'm based in the Philippines, currently living in Quezon City.
