@@ -1,6 +1,6 @@
 
 # CPE311
-Hi 👋 My name is Jann Moises Nyll De los Reyes
+Hi 👋 My name is Jann Moises Nyll De los Reyes ![Killua-PNG-Picture](https://github.com/akosinyll1404/CPE311/assets/109423979/1b9792e9-b4f2-4d1e-8071-c2b4d8783962)
 =====================================================================================================================================================
 
 Student | Researcher | Innovator
