@@ -16,7 +16,7 @@ Welcome to my repository! You can call me "Moises" or "Nyll". I am an aspiring C
 *   ⚡  I always love to explore and learn new things! I love to read books, watch anime, and collect fragrances.
     
 
-![totoro-discord](https://github.com/akosinyll1404/CPE311/assets/109423979/e82f9f29-cad3-4554-a3c7-72fa01b9b050)
+<div class="tenor-gif-embed" data-postid="21573130" data-share-method="host" data-aspect-ratio="5.245" data-width="100%"><a href="https://tenor.com/view/totoro-discord-header-aesthetic-anime-gif-21573130">Totoro Discord Sticker</a>from <a href="https://tenor.com/search/totoro-stickers">Totoro Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 --------------------------------  
 ### Skills
