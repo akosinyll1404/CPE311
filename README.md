@@ -15,8 +15,8 @@ Welcome to my repository! You can call me "Moises" or "Nyll". I am an aspiring C
 *   🧠  I'm learning OOP, Database Management Systems, Data Structure & Algorithms, Python, Computer Networks and Web Development
 *   ⚡  I always love to explore and learn new things! I love to read books, watch anime, and collect fragrances.
     
-![killua-hunter-x-hunter](https://github.com/akosinyll1404/CPE311/assets/109423979/d4c56157-0ea4-4e70-949a-acefaf4f8869)
 
+![totoro-discord](https://github.com/akosinyll1404/CPE311/assets/109423979/e82f9f29-cad3-4554-a3c7-72fa01b9b050)
 
 --------------------------------  
 ### Skills
