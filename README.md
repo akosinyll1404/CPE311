@@ -1,6 +1,7 @@
 # CPE311
 Hi 👋 My name is Jann Moises Nyll De los Reyes
 =====================================================================================================================================================
+![killua-hunter-x-hunter](https://github.com/akosinyll1404/CPE311/assets/109423979/97d5e59d-d54e-4429-8ea6-5163636c4d4d)
 
 Student | Researcher | Innovator
 --------------------------------
@@ -13,6 +14,7 @@ Welcome to my repository! You can call me "Moises" or "Nyll". I am an aspiring C
 *   🧠  I'm learning OOP, Database Management Systems, Data Structure & Algorithms, Python, Computer Networks and Web Development
 *   ⚡  I always love to explore and learn new things! I love to read books, watch anime, and collect fragrances.
     
+![totoro-discord](https://github.com/akosinyll1404/CPE311/assets/109423979/9c1e61ef-23d5-433b-bc7f-ae2d184bc95d)
 
 --------------------------------  
 ### Skills
