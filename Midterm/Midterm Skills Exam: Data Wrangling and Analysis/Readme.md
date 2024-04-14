@@ -1,3 +1,7 @@
+
+![image](https://github.com/akosinyll1404/CPE311/assets/109423979/afb939b3-4f6b-4011-bbd4-37a57af0a865)
+
+
 This folder contains the files for midterm exam
 
 In this activity, you are expected to demonstrate skills learned from concluded modules. Specifically:
